@@ -32,7 +32,7 @@ public class Car {
     private String carName;
 
     public Car(String carName, String color, byte numberOfVehicleOwners, short power, short horsePower, short cubicCapacity,
-                           int price, int mileage, boolean isDamaged){
+                           int price, int mileage, boolean isDamaged){ // object 
         this.carName = carName;
         this.color = color;
         this.numberOfVehicleOwners = numberOfVehicleOwners;
